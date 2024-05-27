@@ -1,0 +1,47 @@
+img{ 
+    float: left;
+    width:150px;
+    border-color: #ee6707;
+    border-width: 4px;
+    border-style: solid;
+    border-radius: 15px;
+  
+  }
+  body{text-align: left;
+    background: #e7dd94}
+  
+  h1{text-shadow: 2px -1px red}
+  h2{text-shadow: -1px 1px red}
+  
+  .shrek{
+  
+    border-color: #317800;
+    border-width: 4px;
+    border-style: solid;
+    border-radius: 15px;
+    background-color: #289f2a;
+  
+  }
+  .inception{border-color: #000778;
+    border-width: 4px;
+    border-style: solid;
+    border-radius: 15px;
+    background-color: #28619f;}
+  
+  .list{border-color: #ee6707;
+    border-width: 4px;
+    border-style: solid;
+    border-radius: 15px;
+    background-color: #e68540;}
+  
+  .forest{border-color: #07ee5b;
+    border-width: 4px;
+    border-style: solid;
+    border-radius: 15px;
+    background-color: #83e640;}
+  
+  .green{border-color: #ee6707;
+    border-width: 4px;
+    border-style: solid;
+    border-radius: 15px;
+    background-color: #e68540;}

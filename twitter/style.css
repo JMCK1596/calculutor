@@ -1,0 +1,30 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  body {
+    background-color: #333;
+  font-family: "Arial";
+    color: white;
+  }
+  
+  .card {
+    background-color: #666;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px #aaa solid;
+  
+    margin-top: 18px;
+  }
+  
+  .delete {
+    padding: 4px;
+    padding-left: 4px;
+    padding-right: 4px;
+  
+    color: white;
+    background-color: #ddaadd;
+    border: 0px;
+    border-radius: 8px;
+  }
